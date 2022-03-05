@@ -1,2 +1,2 @@
 # cv-example
-These is the first steps in my studying HTML
+This is the first steps in my studying HTML
